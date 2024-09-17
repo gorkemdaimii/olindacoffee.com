@@ -1603,3 +1603,10 @@ font-size: 1em;
 
 
 
+.img22 {
+  flex: 1 1 100%; /* Resimleri yan yana yerleştirir ve genişliğe göre ayarlar */
+  max-width: 500px; /* Bilgisayarda maksimum genişlik */
+  height: auto;
+  margin: 0;
+  vertical-align: bottom;
+}
