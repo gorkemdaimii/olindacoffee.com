@@ -800,4 +800,18 @@ button:hover {
   cursor: pointer;
   transform: translateY(-2px);
 }
+/* OlindaSelf sayfası için görsel ortalaması */
+.img22 {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 90%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease;
+}
+
+.img22:hover {
+  transform: scale(1.02);
+}
 
